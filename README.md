@@ -45,7 +45,7 @@ Visual slides and posters created using Canva with:
 
 ### 3. GitHub Repository
 The project is uploaded on GitHub including:
-- Presentation file (PPT/PDF)
+- Presentation file
 - Screenshots of slides
 - README documentation
 
@@ -91,4 +91,4 @@ Cybersecurity is essential in today’s digital world. This project helped in un
 
 
 ## 📎 Project Link
-(Add your GitHub repository link here)
+(https://github.com/aryan-sharma3107/Digital-literacy.git)
