@@ -50,7 +50,7 @@ The project is uploaded on GitHub including:
 - README documentation
 
 
-### 4. LinkedIn Profile (Optional)
+### 4. LinkedIn Profile (www.linkedin.com/in/aryan-sharma-b0a41b377)
 A professional profile created to showcase:
 - Skills
 - Project work
@@ -66,11 +66,10 @@ A professional profile created to showcase:
 5. Compiled project into PPT/PDF format
 6. Created GitHub repository
 7. Uploaded all files and documentation
-8. (Optional) Created LinkedIn profile
+8. Created LinkedIn profile
 
 
-## 📷 Output / Screenshots
-(Add screenshots of your presentation slides here)
+
 
 
 ## ⚠️ Key Learnings
