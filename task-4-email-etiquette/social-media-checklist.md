@@ -1,6 +1,6 @@
 # Responsible Social Media Use for College Students
 
-## ✅ Do's
+##  Do's
 
 | # | Do This | Why It Matters |
 |---|---------|----------------|
@@ -13,7 +13,7 @@
 
 ---
 
-## ❌ Don'ts
+## Don'ts
 
 | # | Avoid This | Why It Matters |
 |---|-----------|----------------|
