@@ -11,11 +11,12 @@
 
 
 ## 🎯 Project Objective
-The objective of this project is to create awareness among students about cybersecurity, common cyber threats, and safe online practices using digital tools.
-
+To understand the importance of digital literacy and promote safe, responsible use of technology.
+To create awareness about cyber threats and encourage secure online practices.
 
 ## 📌 Project Overview
-This project focuses on educating students about the importance of cybersecurity in daily digital life. It highlights various cyber threats and provides practical solutions to stay safe online.
+This project aims to educate students about the importance of digital literacy in everyday digital life.
+It highlights key digital skills, awareness of online risks, and practical ways to use technology safely and responsibly.
 
 ## 🛠️ Tools & Platforms Used
 - Canva (for designing presentation and posters)
@@ -24,14 +25,14 @@ This project focuses on educating students about the importance of cybersecurity
 - LinkedIn (www.linkedin.com/in/aryan-sharma-b0a41b377)
 - kaggle (www.kaggle.com/aryansharma3107)
 - Stack Overflow (stackoverflow.com/users/32561232/aryan-sharma)
-- cyber security quiz (https://docs.google.com/forms/d/e/1FAIpQLScupVNnp-J98y1JvErzgCcf5pWXF6w6r00HhfIl0fZPSzBqTw/viewform?usp=dialog)
+- Digital literacy quiz (https://docs.google.com/forms/d/e/1FAIpQLSc4Vx1ii9wpCTjI2o6PVYp1-CCpHd_TBBZArqCszzIytxgBfg/viewform?usp=publish-editor)
 
 ## 📊 Project Components
 
 ### 1. Presentation
 A structured presentation covering:
-- Introduction to Cybersecurity
-- Importance of Cybersecurity
+- Introduction to digital literacy
+- Importance of digital literacy
 - Common Cyber Threats
 - Real-life Examples
 - Safety Tips
@@ -60,9 +61,8 @@ A professional profile created to showcase:
 
 
 ## 🔍 Steps Followed
-
-1. Selected the topic "Cybersecurity Awareness for Students"
-2. Researched about cyber threats and safety measures
+1. Selected the topic “Digital Literacy Awareness for Students”
+2. Researched about digital tools, online risks, and safe digital practices
 3. Created presentation content
 4. Designed slides using Canva
 5. Compiled project into PPT/PDF format
@@ -71,19 +71,16 @@ A professional profile created to showcase:
 8. Created LinkedIn profile
 
 
-
-
-
 ## ⚠️ Key Learnings
-- Understanding of cybersecurity concepts
-- Awareness of online threats
-- Importance of safe digital practices
-- Hands-on experience with digital tools
+- Understanding of digital literacy concepts
+- Awareness of online risks and responsible usage
+- Importance of safe and ethical digital practices
+- Hands-on experience with digital tools and platforms
+
 
 
 ## ✅ Conclusion
-Cybersecurity is essential in today’s digital world. This project helped in understanding how to stay safe online and how digital tools can be used effectively for communication and awareness.
-
+Digital literacy is essential in today’s digital world. This project helped in understanding how to use digital tools effectively and responsibly, while staying safe and aware in online environments.
 
 ## 🚀 Future Scope
 - Create awareness campaigns on social media
