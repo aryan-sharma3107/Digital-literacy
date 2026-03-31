@@ -20,7 +20,7 @@ This project focuses on educating students about the importance of cybersecurity
 ## 🛠️ Tools & Platforms Used
 - Canva (for designing presentation and posters)
 - PowerPoint (for slide creation)
-- GitHub (https://github.com/aryan-sharma3107/Digital-literacy.git))
+- GitHub (https://github.com/aryan-sharma3107)
 - LinkedIn (www.linkedin.com/in/aryan-sharma-b0a41b377)
 - kaggle (www.kaggle.com/aryansharma3107)
 - Stack Overflow (stackoverflow.com/users/32561232/aryan-sharma)
