@@ -1,6 +1,6 @@
 # Digital-literacy
 # 📘 Digital Literacy Project
-## Cybersecurity Awareness for Students
+
 
 ---
 
